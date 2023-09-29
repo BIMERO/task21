@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "personal information"
+    },
+    {
+        "id": 2,
+        "name": "education"
+    },
+    {
+        "id": 3,
+        "name": "work experience"
+    },
+    {
+        "id": 4,
+        "name": "activity filter"
+    }
+]
